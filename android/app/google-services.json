@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973979835265",
+    "project_id": "sampleproject-d1dfc",
+    "storage_bucket": "sampleproject-d1dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973979835265:android:865be1fc68cbf46a2fa680",
+        "android_client_info": {
+          "package_name": "com.LuminarTechnolab.sampleproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPjFoE-dsenQcaZ-WpWnKsArQwzx1hoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
